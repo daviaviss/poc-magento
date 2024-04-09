@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "label": "Home",
+      "url": "/",
+      "type": "link"
+    },
+    {
+      "label": "Sobre Nós",
+      "url": "/sobre-nos",
+      "type": "link"
+    },
+    {
+      "label": "Contato",
+      "url": "/contato",
+      "type": "link"
+    }
+  ]
+}
