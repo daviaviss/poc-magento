@@ -1,7 +1,7 @@
 {
-  "bg": "hero",
-  "title": "POC Magento InfityWorks",
-  "subtitle": "\"Seja o herói que o mundo precisa. Enfrente desafios, conquiste a grandeza. Junte-se a nós nesta jornada épica.\"",
+  "title": "POC Magento",
+  "subtitle": "Seja o herói que o mundo precisa",
   "buttonText": "Junte-se a nós",
-  "buttonUrl": "#"
+  "buttonUrl": "#",
+  "imageUrl": "https://wallpaperaccess.com/full/2825710.gif"
 }
